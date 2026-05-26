@@ -1,0 +1,1 @@
+killswitch: control_pipe_fd = 134, libubt = '/data/app/~~2I35JJz8XWCKXsyT5NaA2Q==/com.eltechs.ed-9Vgmpzm3d2_umztgwP1pSg==/lib/arm/libubt.so'
